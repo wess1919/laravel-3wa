@@ -151,10 +151,10 @@
           <thead>
             <tr>
               <th>#</th>
-              <th>Header</th>
-              <th>Header</th>
-              <th>Header</th>
-              <th>Header</th>
+              <th>1</th>
+              <th>2</th>
+              <th>3</th>
+              <th>4</th>
             </tr>
           </thead>
           <tbody>
